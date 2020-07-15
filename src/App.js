@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi there!!! My first react web page modified
+          Hi there!!! My first AWS project worked !!
         </p>
         <a
           className="App-link"
